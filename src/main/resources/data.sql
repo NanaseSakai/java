@@ -40,3 +40,4 @@ INSERT INTO usr (user_id, first_name, last_name, password, role_name) VALUES('ta
 INSERT INTO usr (user_id, first_name, last_name, password, role_name) VALUES('aaaa', 'Aaa', 'Aaa', '$2a$10$oxSJl.keBwxmsMLKcT9lPeACINga7SqDd6v1Nue2I5IjrIsFsT7tq', 'USER');
 INSERT INTO usr (user_id, first_name, last_name, password, role_name) VALUES('bbbb', 'Bbb', 'Bbb', '$2a$10$oxSJl.keBwxmsMLKcT9lPeACINga7SqDd6v1Nue2I5IjrIsFsT7tq', 'USER');
 INSERT INTO usr (user_id, first_name, last_name, password, role_name) VALUES('cccc', 'Ccc', 'Ccc', '$2a$10$oxSJl.keBwxmsMLKcT9lPeACINga7SqDd6v1Nue2I5IjrIsFsT7tq', 'ADMIN');
+INSERT INTO usr (user_id, first_name, last_name, password, role_name) VALUES('dddd', 'Ddd', 'Ddd', '$2a$10$oxSJl.keBwxmsMLKcT9lPeACINga7SqDd6v1Nue2I5IjrIsFsT7tq', 'USER');
